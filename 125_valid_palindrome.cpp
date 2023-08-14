@@ -1,20 +1,26 @@
-//https://leetcode.com/problems/valid-palindrome/submissions/
+// https://leetcode.com/problems/valid-palindrome/submissions/
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    bool isPalindrome(string s) {
+    bool isPalindrome(string s)
+    {
         int i = 0, j = s.size() - 1;
-        while (i < j) {
-            while (!isalnum(s[i]) && i < j) {
+        while (i < j)
+        {
+            while (!isalnum(s[i]) && i < j)
+            {
                 i++;
             }
-            while (!isalnum(s[j]) && i < j) {
+            while (!isalnum(s[j]) && i < j)
+            {
                 j--;
             }
-            if (tolower(s[i]) != tolower(s[j])) {
+            if (tolower(s[i]) != tolower(s[j]))
+            {
                 return false;
             }
             i++;
