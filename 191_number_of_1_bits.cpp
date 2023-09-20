@@ -1,4 +1,15 @@
-//https://leetcode.com/problems/number-of-1-bits/
+// https://leetcode.com/problems/number-of-1-bits/
+
+//__builtin_popcount()
+class Solution
+{
+public:
+	int hammingWeight(uint32_t n)
+	{
+		unsigned int count = __builtin_popcount(n);
+		return count;
+	}
+};
 
 class Solution
 {
