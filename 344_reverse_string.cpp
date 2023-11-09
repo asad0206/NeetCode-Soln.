@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/reverse-string/description/
 
+// fast solution
+
 // general soln.
 class Solution
 {
