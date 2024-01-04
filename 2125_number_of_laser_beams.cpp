@@ -2,7 +2,7 @@
 
 // Difficulty: Medium
 
-// Space complexity: O(Laser beams)
+// Space complexity: O(Laser rows)
 class Solution
 {
 public:
