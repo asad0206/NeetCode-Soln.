@@ -12,16 +12,18 @@ class Solution:
 
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         m, n = self.length(headA), self.length(headB)
+        curr_a, curr_b = headA, headB
+
         if m>n:
             for _ in range(m-n):
-                headA = headA.next
+                curr_a = curr_a.next
         else:
             for _ in range(n-m):
-                headB = headB.next
+                curr_b = curr_b.next
         
-        while headA != headB:
-            headA, headB = headA.next, headB.next
+        while curr_a != curr_b:
+            curr_a, curr_b = curr_a.next, curr_b.next
         
-        return headA
+        return curr_a
         
         
