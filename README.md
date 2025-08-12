@@ -33,10 +33,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/asad0206/NeetCode-Soln./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asad0206/NeetCode-Soln./tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
