@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/asad0206/NeetCode-Soln./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asad0206/NeetCode-Soln./tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
