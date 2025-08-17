@@ -4,10 +4,10 @@ class Solution:
         for i in range(size):
             curr = operations.pop(0)
             if curr == "+":
-                prev2Sum = int(operations[-1]) + int(operations[-2])
+                prev2Sum = operations[-1] + operations[-2]
                 operations.append(prev2Sum)
             elif curr == "D":
-                doublePrev = int(operations[-1])*2
+                doublePrev = operations[-1]*2
                 operations.append(doublePrev)
             elif curr == "C":
                 operations.pop()
