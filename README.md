@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/asad0206/NeetCode-Soln./tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/asad0206/NeetCode-Soln./tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/asad0206/NeetCode-Soln./tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
