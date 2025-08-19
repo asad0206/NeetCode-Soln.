@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/asad0206/NeetCode-Soln./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asad0206/NeetCode-Soln./tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -81,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asad0206/NeetCode-Soln./tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
