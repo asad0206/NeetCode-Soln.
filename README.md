@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
+| [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/asad0206/NeetCode-Soln./tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asad0206/NeetCode-Soln./tree/master/0020-valid-parentheses) |
+| [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/asad0206/NeetCode-Soln./tree/master/3974-xor-after-range-multiplication-queries-i) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
