@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asad0206/NeetCode-Soln./tree/master/0002-add-two-numbers) |
+| [0149-max-points-on-a-line](https://github.com/asad0206/NeetCode-Soln./tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/asad0206/NeetCode-Soln./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asad0206/NeetCode-Soln./tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/asad0206/NeetCode-Soln./tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
 | [0554-brick-wall](https://github.com/asad0206/NeetCode-Soln./tree/master/0554-brick-wall) |
 ## Two Pointers
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/asad0206/NeetCode-Soln./tree/master/0149-max-points-on-a-line) |
 | [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
 | [0554-brick-wall](https://github.com/asad0206/NeetCode-Soln./tree/master/0554-brick-wall) |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/asad0206/NeetCode-Soln./tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
