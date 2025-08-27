@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/asad0206/NeetCode-Soln./tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
+| [0554-brick-wall](https://github.com/asad0206/NeetCode-Soln./tree/master/0554-brick-wall) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/asad0206/NeetCode-Soln./tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/asad0206/NeetCode-Soln./tree/master/0287-find-the-duplicate-number) |
+| [0554-brick-wall](https://github.com/asad0206/NeetCode-Soln./tree/master/0554-brick-wall) |
 | [0682-baseball-game](https://github.com/asad0206/NeetCode-Soln./tree/master/0682-baseball-game) |
 | [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/asad0206/NeetCode-Soln./tree/master/1802-number-of-students-unable-to-eat-lunch) |
