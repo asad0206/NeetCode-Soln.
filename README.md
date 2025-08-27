@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/asad0206/NeetCode-Soln./tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/asad0206/NeetCode-Soln./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asad0206/NeetCode-Soln./tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/asad0206/NeetCode-Soln./tree/master/0237-delete-node-in-a-linked-list) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/asad0206/NeetCode-Soln./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asad0206/NeetCode-Soln./tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asad0206/NeetCode-Soln./tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/asad0206/NeetCode-Soln./tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asad0206/NeetCode-Soln./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asad0206/NeetCode-Soln./tree/master/0232-implement-queue-using-stacks) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/asad0206/NeetCode-Soln./tree/master/0979-di-string-match) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/asad0206/NeetCode-Soln./tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
